@@ -19,9 +19,9 @@ Comprehensive analysis of credit card portfolio reveals strong overall health wi
 | Total Active Accounts | 63,730 | N/A | ✓ |
 | Total Credit Extended | $1.8B | N/A | ✓ |
 | Outstanding Balance | $920M | N/A | ✓ |
-| Average Utilization | 67.3% | 30-40% | ⚠️ High |
-| Delinquency Rate | 10.2% | 3-5% | ⚠️ High |
-| Charge-Off Risk | $12.4M | <2% | ⚠️ Monitor |
+| Average Utilization | 67.3% | 30-40% | High |
+| Delinquency Rate | 10.2% | 3-5% | High |
+| Charge-Off Risk | $12.4M | <2% | Monitor |
 
 ### Recommendations
 1. **High Utilization** - Consider credit line increase campaigns for A/B tier customers
